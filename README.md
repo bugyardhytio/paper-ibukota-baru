@@ -1,5 +1,5 @@
 # paper-ibukota-baru
-Repositori yang terbuka untuk kontribusi publik mengenai ibukota baru indonesia. Meniru paperswelove.org tetapi pada aplikasi riset ibukota baru Indonesia
+Repositori yang terbuka untuk kontribusi publik mengenai ibukota baru indonesia.
 
 [Analisis Kesiapan Masyarakat Kecamatan Sepaku dan Samboja Terhadap Rencana Pemindahan Ibu Kota Negara Indonesia](https://ejournal.undip.ac.id/index.php/pwk/article/view/32368)
 
